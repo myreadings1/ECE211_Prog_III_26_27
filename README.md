@@ -9,7 +9,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 ### Grading Policy 
 Coming soon.
 Here is a temporary grading policy:
-- Course Work Load 30 (Homeworks, Exams, Attendance)
+- Course Work Load 25 (Homeworks, Exams, Attendance)
 - Mini Project: 5 Points
 - Lab: 10 Points
 - Midterm Exam: 10 Points
