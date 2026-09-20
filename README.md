@@ -33,9 +33,9 @@ Here is a temporary grading policy:
    - Online C Compiler 2 ==> [Website Link](https://onecompiler.com/c)
 
 ### Lectures
-- Lab1  (Date: Sep 21st, 2026):
+- Lab1  (Date: Sep 20th, 2026):
     - Introduction 
-- Lecture1: (Date: Sep 23rd, 2026)
+- Lecture1: (Date: Sep 22nd, 2026)
     - Introduction to C Programming [PDF Slides](https://drive.google.com/file/d/1BRWXi0CaIzo3KGjQmJ_cb5LMJ3mvMLnv/view?usp=drive_link)
     - Examples (prinf, scanf): [Website](https://www.programiz.com/c-programming/c-input-output).
     - Examples (Functions in C): [Website](https://www.programiz.com/c-programming/c-functions).
