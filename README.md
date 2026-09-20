@@ -1,5 +1,5 @@
 # ECE211 Computer Programming III 2026-2027
-This webpage is dedicated for the second year students of ECE211 Comp Prog III, Class of Fall Semester 2026-2027, with the University of Kufa.
+This webpage is dedicated for the second year students of the ECE211 Comp Prog III, Class of Fall Semester 2026-2027, Electronics and Communications Dpt, the University of Kufa.
 
 
 ### Class Instructors
@@ -9,7 +9,7 @@ This webpage is dedicated for the second year students of ECE211 Comp Prog III, 
 ### Grading Policy 
 Coming soon.
 Here is a temporary grading policy:
-- Course Work Load 25 (Homeworks, Exams, Attendance)
+- Course Work Load 25 (Homework, Exams, Attendance)
 - Mini Project: 5 Points
 - Lab: 10 Points
 - Midterm Exam: 10 Points
@@ -34,11 +34,10 @@ Here is a temporary grading policy:
 
 ### Lectures
 - Lab1  (Date: Sep 20th, 2026):
-    - Introduction 
+    - Introduction [PDF Slides coming soon..]
 - Lecture1: (Date: Sep 22nd, 2026)
-    - Introduction to C Programming [PDF Slides](https://drive.google.com/file/d/1BRWXi0CaIzo3KGjQmJ_cb5LMJ3mvMLnv/view?usp=drive_link)
-    - Examples (prinf, scanf): [Website](https://www.programiz.com/c-programming/c-input-output).
-    - Examples (Functions in C): [Website](https://www.programiz.com/c-programming/c-functions).
+    - Introduction to C Programming [PDF Slides coming soon]
+    - Control Statements in C [Loops, Conditional Statements]
 
 - Lab2 (Date: Sep 28th, 2026):
     - C Programming Lab Lecture [PDF Slides](https://drive.google.com/file/d/11hVEaPKcJZFCU0_mMPvJMOD6TLI14qks/view?usp=drive_link)
@@ -164,6 +163,8 @@ One of the course requirements is the mini project. A student is required to wor
 
 
 ### General Examples on Writing C Code
+- Examples (prinf, scanf): [Website](https://www.programiz.com/c-programming/c-input-output).
+- Examples (Functions in C): [Website](https://www.programiz.com/c-programming/c-functions).
 - Arrays in C [Website Link](https://www.programiz.com/c-programming/c-arrays)
 - Strings in C [Website Link](https://www.programiz.com/c-programming/c-strings)
 - break..continue in C [Website Link](https://www.programiz.com/c-programming/c-break-continue-statement)
