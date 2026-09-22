@@ -36,8 +36,8 @@ Here is a temporary grading policy:
 - Lab1  (Date: Sep 20th, 2026):
     - Introduction [PDF Slides coming soon..]
 - Lecture1: (Date: Sep 22nd, 2026)
-    - Introduction to C Programming [PDF Slides coming soon]
-    - Control Statements in C [Loops, Conditional Statements]
+    - Introduction to Control Statements in C Program [PDF Slides](https://drive.google.com/file/d/17rSTMKJtq9_SEoSvRO-xsLwxMD_XgYxd/view?usp=drive_link)
+
 
 - Lab2 (Date: Sep 28th, 2026):
     - C Programming Lab Lecture [PDF Slides](https://drive.google.com/file/d/11hVEaPKcJZFCU0_mMPvJMOD6TLI14qks/view?usp=drive_link)
