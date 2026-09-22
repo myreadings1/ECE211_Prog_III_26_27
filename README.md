@@ -1,5 +1,7 @@
 # ECE211 Computer Programming III 2026-2027
-This webpage is dedicated for the second year students of the ECE211 Comp Prog III, Class of Fall Semester 2026-2027, Electronics and Communications Dpt, the University of Kufa.
+This webpage is dedicated for the second year students of the ECE211 Comp Prog III, Class of Fall Semester 2026-2027, 
+The Department of Electronics and Communications Eng., 
+The University of Kufa.
 
 
 ### Class Instructors
