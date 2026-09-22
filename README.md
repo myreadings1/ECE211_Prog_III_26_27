@@ -38,7 +38,7 @@ Here is a temporary grading policy:
 - Lab1  (Date: Sep 20th, 2026):
     - Introduction [PDF Slides coming soon..]
 - Lecture1: (Date: Sep 22nd, 2026)
-    - Introduction to Control Statements in C Program [PDF Slides](https://drive.google.com/file/d/17rSTMKJtq9_SEoSvRO-xsLwxMD_XgYxd/view?usp=drive_link)
+    - Introduction to Control Statements in C Program [PDF Slides](https://drive.google.com/file/d/1JoTxtOSTWOR70LY8Q07cuS5MextX64RN/view?usp=drive_link)
 
 
 - Lab2 (Date: Sep 28th, 2026):
