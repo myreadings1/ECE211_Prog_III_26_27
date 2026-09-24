@@ -10,14 +10,6 @@ The University of Kufa.
 
 ### Grading Policy 
 Coming soon.
-Here is a temporary grading policy:
-- Course Work Load 25 (Homework, Exams, Attendance)
-- Mini Project: 5 Points
-- Lab: 10 Points
-- Midterm Exam: 10 Points
-- Final Exam: 40 Points
-- Final Lab Exam: 10 Points
-- The total is: 100 Points 
 
 ### References
 - The Textbook: C Programming: A Modern Approach, 2nd Edition, by K.N King ==> [Download PDF](https://drive.google.com/file/d/1QodDrf0COqPnU4hTlUTl3U21Yi-xjIse/view?usp=sharing). 
