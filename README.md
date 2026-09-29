@@ -32,79 +32,25 @@ Coming soon.
 - Lecture1: (Date: Sep 22nd, 2026)
     - Introduction to Control Statements in C Program [PDF Slides](https://drive.google.com/file/d/1JoTxtOSTWOR70LY8Q07cuS5MextX64RN/view?usp=drive_link)
 
+- Lab2  (Date: Sep 27th, 2026):
+    - Introduction [PDF Slides coming soon..]
+    - Lab Report [Download Link]
+- Lecture2 (Date: Sep 29th, 2026):
+    - Introduction to Control Statements in C Program [PDF Slides](https://drive.google.com/file/d/15p-aaJFTGli3J91Un6cG57MtRrD9mSdg/view?usp=drive_link)
 
-- Lab2 (Date: Sep 28th, 2026):
-    - C Programming Lab Lecture [PDF Slides](https://drive.google.com/file/d/11hVEaPKcJZFCU0_mMPvJMOD6TLI14qks/view?usp=drive_link)
-    - Lab Report [Download Link](https://docs.google.com/document/d/1vSdY7UlpTWXabYi0OfX-bqcWz25DrU89/edit?usp=drive_link&ouid=115959378594459904907&rtpof=true&sd=true)
-
-- Lecture2: (Date: Sep 30th, 2026)
-   - Control Statements in C: if..switch.. Loops (for.. while.do-while)  [PDF Slides](https://drive.google.com/file/d/1plYiiOeJDB_i-VBtjWoZBzcUmLA-lTQI/view?usp=drive_link):
-   - Examples: Loops in C [Website Link](https://www.programiz.com/c-programming/c-do-while-loops)
-
-- Lab3 (Date: Oct 5th, 2026):
-    - Flow Control [PDF link](https://drive.google.com/file/d/1tnQ6i5dbs5DiyOJADCiWVlW-tpUbKAP1/view?usp=drivesdk)
-    - Lab2 template [Link](https://docs.google.com/document/d/1VZNnVMSTZ3zclmW76WbNpe0aJB-mlJSq/edit?usp=drivesdk&ouid=115959378594459904907&rtpof=true&sd=true)
-    
-- Lecture3: (Date: Oct 7th, 2026):
-    - Pointers, Addresses, and Arrays in C [PDF Slides](https://drive.google.com/file/d/1PUTk26JSeXxQX-uO2kPS23b-djJTg98J/view?usp=drive_link)
-- Lab4 (Date: Oct 12th, 2026):
-    - Pointers and Arrays [PDF Files](https://drive.google.com/file/d/1Xof7C2zGKzrynnbXoL2RGbc0bmdViph2/view?usp=drivesdk)
-    - Quiz Group A ==> [Solutions](https://drive.google.com/file/d/1keIHXf6NEzqJEhVRfxX2vktHWbfzEtNp/view?usp=drive_link)
-    - Quiz Group B ==> [Solutions](https://drive.google.com/file/d/1zeqPgLVs21GXSOppM5WXSR6xGGwbAtbS/view?usp=drive_link)
-- Lecture4: (Date: Oct 14th, 2026):
-    - Multidimensional Arrays, and Files in C [PDF Slides](https://drive.google.com/file/d/13HE4HhyUhVeMun0pA0vWXIRQO_gFsUwE/view?usp=drive_link)
-- Lab5 (Date: Oct 19th, 2026):
-    - Lab sheet [PDF Sheet](https://drive.google.com/file/d/1w8CJCO8y-Yv2DjBqcTdrp9_kWGCh0iAf/view?usp=drivesdk)
-- Lecture5: (Date: Oct 21st, 2026):
-    - Files and Structures in C [PDF Slides](https://drive.google.com/file/d/1fm8H2266yc71mDIguz7FBHEjn31H_3ba/view?usp=drive_link)
-- Lab6 (Date: Oct 26th, 2026):
-    - Lab Sheet [PDF slides](https://drive.google.com/file/d/17gsRQVEzYQL9T4Q3M3IZ2k_rBTOg38l2/view?usp=drivesdk)
-- Lecture6: (Date: Oct 28th, 2026):
-    - Data Structures in C [PDF Slides](https://drive.google.com/file/d/1lum-JNIAwpu-WCCDIwV1V23aDEDnBI60/view?usp=drive_link)
-- Lab7 (Date: Nov 2nd, 2026):
-    - Lab Sheet [PDF Slides](https://drive.google.com/file/d/1lR_YopsGAVKhtbZgwEgTsLv_D9nl0z9v/view?usp=drive_link)
-- Lecture7: (Date: Nov 4th, 2026):
-    - Data Structures in C.. Cont [PDF Slides](https://drive.google.com/file/d/1VQgzlunT9Cu2Fu2TWQD_hGVd-VGRg8qY/view?usp=drive_link)
-    - Note: the source C code is available at the end of this page.
-- Lab8 (Date: Nov 23,2026):
-    - [PDF slides](https://drive.google.com/file/d/1oBr9B85a3XPTN6eNUNQibmouN-dL3j25/view?usp=drivesdk)
-- Lecture8: (Date: Dec 2nd, 2026):
-    - [PDF slides](https://drive.google.com/file/d/19x1hQfkzGjs622NyvKMbnh5p-n8ATC3D/view?usp=drive_link)
-- Lab9 (Date: Dec 7th,2026):
-    - [PDF slides](https://drive.google.com/file/d/1eIaKVuU8egtF2YEm9lquU8QsKATTSlSI/view?usp=drivesdk)
-- Lecture9: (Date: Dec 9th, 2026):
-    - [PDF slides]
-- Lab10 Date (Dec 14th, 2026)
-    - [PDF slides](https://drive.google.com/file/d/1VmKtUwKsQxbKvml3yLHEy0pEfZR2tAME/view?usp=drivesdk)
 
   
 
-### Homeworks
-- General homework submission policy (for ALL Homeworks):
+### Homework Assignments
+- General homework submission policy (for ALL homework assignments):
    - You may submit your homework to (wahhab.albazrqa@uokufa.edu.iq).
    - To submit your homework, make sure to include: (a) Your name in Arabic, (b) Title (like: HW1, HW2 ), (c) Submission date, and (d) A text file (.c) to show your C code.
    - Late homework submissions (48 Hours) will receive a maximum grade of 50 out of 100. Late homework submissions (more than 48 Hours) will receive a maximum grade of 25 out of 100..
 
-- HW1: Due on (Oct 6th, 2026)
-  - (1) Write a C program that displays prime numbers between two intervals (numbers).
-  - (2) Design and implement a simple calculator program based on C code.
+- HW1: Due on (..., 2026)
+  - (1) 
+  - (2) 
 
-- HW2: Due on (Oct 13th, 2026)
-   - (1) Write a program that uses printf to display the following picture on the screen: [Picture Link](https://drive.google.com/file/d/132I-wZQ_E6KVKTJolZiyK6OV8fIICELg/view?usp=drive_link)
-   - (2) On the reference textbook, implement 5 out of 12 programming projects page (122).
-- HW3: Due on (Oct 20th,2026) 
-   - (1) Write a C code program that swaps two integers without using a template integer.
-   - (2) Write a C code program that accepts a float matrix M (8*19) from user's input and finds the transpose of M.
-   - (3) Write a C code program that writes a float matrix A (8*19) to a text file, read it to a new matrix B, and prints B on the output screen.
-   - (4) Write a C code program that accepts an integer (H) from user's input and detects occurance of three ones in a row (111) in H. For example, if the user input is 71, which is 0b1000111 in binary, your program outputs: Yes.. There's a three ones in a row. If the user input is 70, which is 0b1000110 in binary, your program outputs: Not found. If we need to detect three zeros in a raw, what should be changed in your code?
-- HW4: Due on (Oct 27th,2026)
-   - Write a code program that uses C structures to hold students data (10 students). Your program should read students data from user input. Then, use functions to write C structures to a C file. You should try the following: (1) Try both types of file: text and binary, (2) Create C structures at run time using dynamic memory allocation, and (3) Use C files to store students data.
- - HW5 Due on (Nov 1st,2026): Note there are links (at the bottom of this website) which contain useful C code that helps students to address this homework.
-     - Write a C code program that implements a stack data structure. The basic operations you should include: createStack(), Push(), Pop(), stackSize(), PrintStack().
-     - Write a C code program that implements a queue data structure. The basic operations you should include: createQueue(), EnQueue(), DeQueue(), QueueSize(), PrintQueue();
-     - Write a C code program that implements a linked list data structure. The basic operations you should include: AddNode(), DeleteNode(), LinkedListSize(), FindElement(); 
-     - Write a C code program that creates a linked list data structure name it (List1). Then, write a C code to reverse List1 in a new linked list (List2). For example, List1 = 2,7,9,12,17. List2 should be: 17,12,9,7,2.
-     - Write a C code program that reverses an array of characters using stack data structure. For example for the array A: b,y,u,r,p. The reverse is B: p,r,u,y,b.
 
 
 ### Exams
@@ -115,26 +61,6 @@ Coming soon.
    - Retaking exam is possible. However, students have to inform the instructor beforehand.
 - Quiz1: Date (Oct 7th, 2026):
    - Covers all material up to this date.
-- Quiz2: Date (Oct 14th, 2026):
-   - Covers all material up to this date.
-- Midterm Exam (Nov 4th, 2026) Reschedule
-- Midterm Exam (Nov 9th, 2026) Reschedule
-- Midterm1 Lab Exam (Nov 16th, 2026)
-    -  Lab Exam [PDF File](https://drive.google.com/file/d/1O4Q0crtClOl92-cXoXvk-MYWBLVidliU/view?usp=drive_link)
-    -  Solutions [PDF File](https://drive.google.com/file/d/1dXkTHrKHyMbCmEXVA0mOeAuDfIhErbHd/view?usp=drive_link)
-- Midterm1 Exam (Nov 18th, 2026)
-- Midterm1 Questions [PDF File](https://drive.google.com/file/d/12GINL1OjpG8Vrp-6kykNJmXDX5qPLuT8/view?usp=drivesdk)
-- Quiz3: Date (Nov 27th, 2026):
-     - [PDF File](https://drive.google.com/file/d/1yN2zHyNybn7oNWIA8UKPbPODoGybTOuI/view?usp=drive_link)
-- Midterm2 Exam (Nov 30th, 2026)
-   - This exam covers all the materials up to this date.
-   - Nice Exam Questions ara available here [Website Link](https://github.com/myreadings1/ECE211_Prog_III_25_26/blob/main/C_Code_Questions.md)
-- Lab Exam [PDF File](https://drive.google.com/file/d/1aA8WZbCdha0qx0RYuqmx8KkuIImSd8dd/view?usp=drive_link)
-- Class Exam [PDF File](https://drive.google.com/file/d/1N7eera6YU1C1n1hRc-V3YUOWi_OrLCl4/view?usp=drive_link)
-- Quiz4 (Date Dec 16th,2026)
-  - Covers lectures 6-7-8..
-  - [PDF File](https://drive.google.com/file/d/1mP5qkLTJVuuloUsytsyqF9rFOdcU-8Mw/view?usp=drive_link)
-- Quiz5
 
 
 ### Mini Project
