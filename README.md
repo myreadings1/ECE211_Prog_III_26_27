@@ -30,19 +30,19 @@ Coming soon.
 - Lab1  (Date: Sep 20th, 2026):
     - Introduction [PDF Slides coming soon..]
 - Lecture1: (Date: Sep 22nd, 2026)
-    - Introduction to Control Statements in C Program [PDF Slides](https://drive.google.com/file/d/1JoTxtOSTWOR70LY8Q07cuS5MextX64RN/view?usp=drive_link)
+    - Introduction to Control Statements in C Program PDF Slides [Download](https://drive.google.com/file/d/1JoTxtOSTWOR70LY8Q07cuS5MextX64RN/view?usp=drive_link)
 
 - Lab2  (Date: Sep 27th, 2026):
     - Introduction [PDF Slides coming soon..]
     - Lab Report [Download Link]
 - Lecture2 (Date: Sep 29th, 2026):
-    - Introduction to Control Statements in C Program [PDF Slides](https://drive.google.com/file/d/15p-aaJFTGli3J91Un6cG57MtRrD9mSdg/view?usp=drive_link)
+    - Introduction to Control Statements in C Program PDF Slides [Download](https://drive.google.com/file/d/15p-aaJFTGli3J91Un6cG57MtRrD9mSdg/view?usp=drive_link)
 
 - Lab3  (Date: Oct 4th, 2026):
-    - Introduction [PDF Slides](https://drive.google.com/file/d/1Rg2b0dbWO_qIZ9MYZT1CHX3QFwFFGJTk/view?usp=drive_link)
+    - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1Rg2b0dbWO_qIZ9MYZT1CHX3QFwFFGJTk/view?usp=drive_link)
     - Lab Report [Download Link]
 - Lecture3 (Date: Oct 6th, 2026):
-    - Coming soon..  [PDF Slides]
+    - Coming soon..  PDF Slides [Download]
 
   
 
