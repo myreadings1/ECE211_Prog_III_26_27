@@ -38,6 +38,11 @@ Coming soon.
 - Lecture2 (Date: Sep 29th, 2026):
     - Introduction to Control Statements in C Program [PDF Slides](https://drive.google.com/file/d/15p-aaJFTGli3J91Un6cG57MtRrD9mSdg/view?usp=drive_link)
 
+- Lab3  (Date: Oct 4th, 2026):
+    - Introduction [PDF Slides](https://drive.google.com/file/d/1Rg2b0dbWO_qIZ9MYZT1CHX3QFwFFGJTk/view?usp=drive_link)
+    - Lab Report [Download Link]
+- Lecture3 (Date: Oct 6th, 2026):
+    - Coming soon..  [PDF Slides]
 
   
 
