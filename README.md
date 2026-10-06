@@ -43,6 +43,12 @@ Coming soon.
 - Lecture3 (Date: Oct 6th, 2026):
     - Data Types In C..  PDF Slides [Download](https://drive.google.com/file/d/1-5TVirJYTnCCjcR8qljp44FMoMc1d0ac/view?usp=drive_link)
 
+- Lab4  (Date: Oct 11th, 2026):
+    - Lab sheet PDF Slides => [Download]
+    - Lab Report [Download Link]
+- Lecture3 (Date: Oct 13th, 2026):
+    - Coming soon..  PDF Slides [Download]
+
   
 
 ### Homework Assignments
