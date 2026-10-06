@@ -41,7 +41,7 @@ Coming soon.
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1Rg2b0dbWO_qIZ9MYZT1CHX3QFwFFGJTk/view?usp=drive_link)
     - Lab Report [Download Link]
 - Lecture3 (Date: Oct 6th, 2026):
-    - Data Types In C..  PDF Slides [Download](https://drive.google.com/file/d/1aIa6KkpMXeer07mnmgsZyB5yEjDBOQzM/view?usp=drive_link)
+    - Data Types In C..  PDF Slides [Download]
 
   
 
