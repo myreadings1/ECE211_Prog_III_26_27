@@ -41,13 +41,13 @@ Coming soon.
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1Rg2b0dbWO_qIZ9MYZT1CHX3QFwFFGJTk/view?usp=drive_link)
     - Lab Report [Download Link]
 - Lecture3 (Date: Oct 6th, 2026):
-    - Data Types In C..  PDF Slides [Download](https://drive.google.com/file/d/1-5TVirJYTnCCjcR8qljp44FMoMc1d0ac/view?usp=drive_link)
+    - Data Types In C => PDF Slides [Download](https://drive.google.com/file/d/1-5TVirJYTnCCjcR8qljp44FMoMc1d0ac/view?usp=drive_link)
 
 - Lab4  (Date: Oct 11th, 2026):
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1h1c4gQV5tqQNfkWdCK6YVZOSXJt4xysB/view?usp=drive_link)
     - Lab Report [Download Link]
 - Lecture3 (Date: Oct 13th, 2026):
-    - Coming soon..  PDF Slides [Download]
+    - Structures in C => [PDF Slides](https://drive.google.com/file/d/1WWyoEONRB0RadBt9J2wvKeFmZPqpQLcm/view?usp=drive_link)
 
   
 
