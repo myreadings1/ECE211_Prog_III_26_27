@@ -60,7 +60,10 @@ Coming soon.
 - HW1: Due on (..., 2026)
   - (1) 
   - (2) 
-
+- HW2: Due on (Oct 18th, 2026): given a set of integers: s1 = {1077, 109, 0, 265, 70, 111, 11, 12, 5, 200 }
+- 
+  - (1) Write a C code program to 
+  - (2) 
 
 
 ### Exams
