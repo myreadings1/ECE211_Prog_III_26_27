@@ -46,9 +46,14 @@ Coming soon.
 - Lab4  (Date: Oct 11th, 2026):
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1h1c4gQV5tqQNfkWdCK6YVZOSXJt4xysB/view?usp=drive_link)
     - Lab Report [Download Link]
-- Lecture3 (Date: Oct 13th, 2026):
+- Lecture4 (Date: Oct 13th, 2026):
     - Structures in C => [PDF Slides](https://drive.google.com/file/d/1WWyoEONRB0RadBt9J2wvKeFmZPqpQLcm/view?usp=drive_link)
 
+- Lab5  (Date: Oct 18th, 2026):
+    - Lab sheet PDF Slides => [coming soon]
+    - Lab Report [Download Link]
+- Lecture4 (Date: Oct 20th, 2026):
+    - coming soon => [coming soon]
   
 
 ### Homework Assignments
