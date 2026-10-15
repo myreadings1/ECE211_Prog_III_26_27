@@ -63,10 +63,10 @@ Coming soon.
 
 - HW2: Due on (Oct 18th, 2026): given a set of integers: s1 = {1077, 109, 0, 265, 70, 111, 11, 12, 5, 200 }
 - 
-  - (1) Write a C code program to and put s1 (above) in an array. Then, write a C code that converts s1 into a linked list.
-  - (2) Write a C code program to print the linked list.
-  - (3) Write a C code program to print odd integers in the linked list.
-  - (4) Write a C code program to find the sum of even integers in the linked list.
+  - (1) Write a C code program to put s1 in an array a1. Then, write a C code to convert a1 into a linked list L1.
+  - (2) Write a C code program to print the linked list (L1).
+  - (3) Write a C code program to print odd integers in the linked list (L1).
+  - (4) Write a C code program to find the sum of even integers in the linked list (L1).
 
 
 ### Exams
