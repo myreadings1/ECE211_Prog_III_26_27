@@ -28,31 +28,29 @@ Coming soon.
 ### Lectures
 - Lab1  (Date: Sep 20th, 2026):
     - Introduction [PDF Slides coming soon..]
-- Lecture1: (Date: Sep 22nd, 2026)
+- Class Lecture1: (Date: Sep 22nd, 2026)
     - Introduction to Control Statements in C Program PDF Slides => [Download](https://drive.google.com/file/d/1JoTxtOSTWOR70LY8Q07cuS5MextX64RN/view?usp=drive_link)
 
 - Lab2  (Date: Sep 27th, 2026):
     - Introduction [PDF Slides coming soon..]
-    - Lab Report [Download Link]
-- Lecture2 (Date: Sep 29th, 2026):
+- Class Lecture2 (Date: Sep 29th, 2026):
     - Introduction to Control Statements in C Program PDF Slides => [Download](https://drive.google.com/file/d/15p-aaJFTGli3J91Un6cG57MtRrD9mSdg/view?usp=drive_link)
 
 - Lab3  (Date: Oct 4th, 2026):
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1Rg2b0dbWO_qIZ9MYZT1CHX3QFwFFGJTk/view?usp=drive_link)
-    - Lab Report [Download Link]
-- Lecture3 (Date: Oct 6th, 2026):
+- Class Lecture3 (Date: Oct 6th, 2026):
     - Data Types In C => PDF Slides [Download](https://drive.google.com/file/d/1-5TVirJYTnCCjcR8qljp44FMoMc1d0ac/view?usp=drive_link)
 
 - Lab4  (Date: Oct 11th, 2026):
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1h1c4gQV5tqQNfkWdCK6YVZOSXJt4xysB/view?usp=drive_link)
-    - Lab Report [Download Link]
-- Lecture4 (Date: Oct 13th, 2026):
+   
+- Class Lecture4 (Date: Oct 13th, 2026):
     - Structures in C => [PDF Slides](https://drive.google.com/file/d/1WWyoEONRB0RadBt9J2wvKeFmZPqpQLcm/view?usp=drive_link)
 
 - Lab5  (Date: Oct 18th, 2026):
-    - Lab sheet PDF Slides => [coming soon]
-    - Lab Report [Download Link]
-- Lecture4 (Date: Oct 20th, 2026):
+    - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1FH4ZtWALWZUe8tQhQvN2fOgpt-jkHIdZ/view?usp=drive_link)
+   
+- Class Lecture5 (Date: Oct 20th, 2026):
     - coming soon => [coming soon]
   
 
