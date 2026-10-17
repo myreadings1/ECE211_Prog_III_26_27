@@ -5,7 +5,7 @@ The University of Kufa.
 
 
 ### Class Instructors
-- Dr. Wahhab R. Mousa (Email: wahhab.albazrqa@uokufa.edu.iq)
+- Dr. Wahhab R. Mousa (Email: WAHHAB.ALBAZRQA@uokufa.edu.iq)
 - Dr. Ameer Alshammaa (Email: ameer.alshammaa@uokufa.edu.iq)
 
 ### Grading Policy 
