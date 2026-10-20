@@ -45,13 +45,13 @@ Coming soon.
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1h1c4gQV5tqQNfkWdCK6YVZOSXJt4xysB/view?usp=drive_link)
    
 - Class Lecture4 (Date: Oct 13th, 2026):
-    - Structures in C => [PDF Slides](https://drive.google.com/file/d/1WWyoEONRB0RadBt9J2wvKeFmZPqpQLcm/view?usp=drive_link)
+    - Structures and Linked List in C => [PDF Slides](https://drive.google.com/file/d/1WWyoEONRB0RadBt9J2wvKeFmZPqpQLcm/view?usp=drive_link)
 
 - Lab5  (Date: Oct 18th, 2026):
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1FH4ZtWALWZUe8tQhQvN2fOgpt-jkHIdZ/view?usp=drive_link)
    
 - Class Lecture5 (Date: Oct 20th, 2026):
-    - coming soon => [coming soon]
+    - Linked List Operations in C => [Download](https://drive.google.com/file/d/10RfOZu27S-OGZ-cz5omaR9EPnyJuJOoR/view?usp=drive_link)
   
 
 ### Homework Assignments
