@@ -11,7 +11,7 @@ int main() {
 // Put all values in one array (call it A)
  int A[ 6 ]= { 77,107,91,9,202,111};
 
-  // Initialize nodes
+  // Define necessary pointers
   struct node *head = NULL;
   struct node *temp = NULL;
   struct node *newNode = NULL;
