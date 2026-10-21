@@ -83,7 +83,7 @@ Coming soon.
 - Quiz1: Date (Oct 6th, 2026):
    - Covers all material up to this date.
  
-- Quiz2: Date (Oct 20th, 2026):
+- Midterm Exam: Date (Oct 27th, 2026):
    - Covers all material up to this date.
 
 
