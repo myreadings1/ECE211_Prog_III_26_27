@@ -52,7 +52,7 @@ Coming soon.
    
 - Class Lecture5 (Date: Oct 20th, 2026):
     - Linked List Operations in C => [Download](https://drive.google.com/file/d/10RfOZu27S-OGZ-cz5omaR9EPnyJuJOoR/view?usp=drive_link)
-    - Linked List Operations with C Code [Download](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/LinkedList_Operations.md)
+    - Linked List Operations with C Code => [Download](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/LinkedList_Operations.md)
   
 
 ### Homework Assignments
