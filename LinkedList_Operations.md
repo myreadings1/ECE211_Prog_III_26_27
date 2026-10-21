@@ -43,7 +43,7 @@ int main() {
  }
 
 // Print all nodes in the LL
-// a- Make temp starts from the first node and traverse all nodes till the last one 
+// Make temp starts from the first node and traverse all nodes till the last one 
  temp = head;
  printf ("\n");
  while ( NULL != temp  )
@@ -70,7 +70,7 @@ int main() {
     }
 
 // Print all nodes in the LL
-// a- Make temp starts from the first node and traverse all nodes till the last one 
+// Make temp starts from the first node and traverse all nodes till the last one 
  temp = head;
  printf ("\n");
  while ( NULL != temp  )
@@ -104,7 +104,7 @@ int main() {
     }
 
  // Print all nodes in the LL
-// a- Make temp starts from the first node and traverse all nodes till the last one 
+// Make temp starts from the first node and traverse all nodes till the last one 
  temp = head;
  printf ("\n");
  while ( NULL != temp  )
@@ -149,7 +149,7 @@ int main() {
     }
 
  // Print all nodes in the LL
-// a- Make temp starts from the first node and traverse all nodes till the last one 
+// Make temp starts from the first node and traverse all nodes till the last one 
  temp = head;
  printf ("\n");
  while ( NULL != temp  )
@@ -176,7 +176,7 @@ int main() {
     }
 
  // Print all nodes in the LL
-// a- Make temp starts from the first node and traverse all nodes till the last one 
+// Make temp starts from the first node and traverse all nodes till the last one 
  temp = head;
  printf ("\n");
  while ( NULL != temp  )
