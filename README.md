@@ -19,6 +19,7 @@ Coming soon.
 ### Compile and Run C Programs on Windows Machine
 - Option 1: Installing CLion with GCC Compiler [Website]==> (https://www.jetbrains.com/clion/)
 - Option 2: Installing GCC Eclipse and C Compiler on Windows computer ==> [Watch on Youtube](https://www.youtube.com/watch?v=jfuJ82ODY2U)
+- Option 3: Mobile Application to run C code on Mobile: (a) Coding C; or (b) PocketCode.
 
 - You may run your C code online as follows:
 
@@ -71,6 +72,10 @@ Coming soon.
   - (2) Write a C code program to print the linked list (L1).
   - (3) Write a C code program to print odd integers in the linked list (L1).
   - (4) Write a C code program to find the sum of even integers in the linked list (L1).
+
+- Hw3: Due on (Oct 26th, 2026): Implement deletion from a linked A={5,6,7,90,22,7}:
+   - (a) Deletion from the middle, and
+   - (b) Deletion from the end.
 
 
 ### Exams
