@@ -36,7 +36,7 @@ int main() {
     while ( NULL != temp->next  )
     { temp = temp->next ;  }
 
-    // temp reaches the last node in the LL
+    // Connect the newNode after the last node in the LL
     temp->next = newNode;
     }
 
