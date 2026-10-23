@@ -54,6 +54,13 @@ Coming soon.
 - Class Lecture5 (Date: Oct 20th, 2026):
     - Linked List Operations in C => [Download](https://drive.google.com/file/d/10RfOZu27S-OGZ-cz5omaR9EPnyJuJOoR/view?usp=drive_link)
     - Linked List Operations with C Code => [Download](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/LinkedList_Operations.md)
+
+- Lab6  (Date: Oct 25th, 2026):
+    - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1O1RhOBSe8jFXaDGrgNc-y2e5fVaWcqrZ/view?usp=drive_link)
+   
+- Class Lecture6 (Date: Oct 27th, 2026):
+    - Coming soon  => [Download]()
+
   
 
 ### Homework Assignments
