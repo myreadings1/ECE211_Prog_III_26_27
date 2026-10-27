@@ -97,6 +97,8 @@ Coming soon.
  
 - Midterm Exam: Date (Oct 27th, 2026):
    - Covers all material up to this date.
+   - Mid_Exam_SampleA ==> [Download](https://drive.google.com/file/d/1GjsJJOF_xwEvFjLzdlppTtDqR1_zCQcH/view?usp=drive_link)
+   - Mid_Exam_SampleB ==> [Download](https://drive.google.com/file/d/1dDcHE-guEvUr9IBS45-sxJxDuFdtKn1q/view?usp=drive_link)
 
 
 ### Mini Project
