@@ -59,7 +59,14 @@ Coming soon.
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1O1RhOBSe8jFXaDGrgNc-y2e5fVaWcqrZ/view?usp=drive_link)
    
 - Class Lecture6 (Date: Oct 27th, 2026):
-    - Coming soon  => [Download]()
+    - Midterm Exam
+
+ - Lab7  (Date: Nov 1st, 2026):
+    - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1enCXstVPvxHM4-WKNB-lXLPLpW7B91ke/view?usp=drive_link)
+   
+- Class Lecture7 (Date: Oct 3rd, 2026):
+    - Coming soon.. 
+
 
   
 
