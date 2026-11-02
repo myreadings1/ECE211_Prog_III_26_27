@@ -1,3 +1,5 @@
+``` C Code
+
 // Stack implementation with Array in C
 #include <stdio.h>
 #include <stdlib.h>
@@ -57,3 +59,4 @@ struct stack s1;
  printf("\nAfter popping out\n");
  printStack( &s1 );
 }
+```
