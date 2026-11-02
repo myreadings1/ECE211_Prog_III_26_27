@@ -65,7 +65,7 @@ Coming soon.
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1enCXstVPvxHM4-WKNB-lXLPLpW7B91ke/view?usp=drive_link)
    
 - Class Lecture7 (Date: Nov 1st, 2026):
-    - Stack Data Structure => [Download](https://drive.google.com/file/d/17NqL8P5gndAfMtFT6vDacP4x2NlfBRlJ/view?usp=drive_link)
+    - Stack Data Structure => [Download](https://drive.google.com/file/d/1Z5cmGE7d3Y-jjMLgDFQfOxKODpM_4fpo/view?usp=drive_link)
     - Stack Data Structure with Array in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/Stack_Array_InC.md)
     - Stack Data Structure with Linked List in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/Stack_LinkedList.md)
 
