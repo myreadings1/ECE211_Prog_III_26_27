@@ -64,8 +64,9 @@ Coming soon.
  - Lab7  (Date: Nov 1st, 2026):
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1enCXstVPvxHM4-WKNB-lXLPLpW7B91ke/view?usp=drive_link)
    
-- Class Lecture7 (Date: Oct 3rd, 2026):
-    - Coming soon.. 
+- Class Lecture7 (Date: Nov 1st, 2026):
+    - Stack Data Structure => [Download]
+    - Stack Data Structure in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/StackImpArray_InC.md)
 
 
   
