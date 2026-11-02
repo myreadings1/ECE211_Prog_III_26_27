@@ -60,6 +60,8 @@ Coming soon.
    
 - Class Lecture6 (Date: Oct 27th, 2026):
     - Midterm Exam
+      - Mid_Exam_SampleA ==> [Download](https://drive.google.com/file/d/1GjsJJOF_xwEvFjLzdlppTtDqR1_zCQcH/view?usp=drive_link)
+      - Mid_Exam_SampleB ==> [Download](https://drive.google.com/file/d/1dDcHE-guEvUr9IBS45-sxJxDuFdtKn1q/view?usp=drive_link)
 
  - Lab7  (Date: Nov 1st, 2026):
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/1enCXstVPvxHM4-WKNB-lXLPLpW7B91ke/view?usp=drive_link)
