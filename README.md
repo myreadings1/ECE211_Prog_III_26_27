@@ -71,6 +71,12 @@ Coming soon.
     - Stack Data Structure with Array in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/Stack_Array_InC.md)
     - Stack Data Structure with Linked List in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/Stack_LinkedList.md)
 
+- Lab8  (Date: Nov 8th, 2026):
+    - Lab sheet PDF Slides => [Download]coming soon
+   
+- Class Lecture8 (Date: Nov 10th, 2026):
+    - Queue Data Structure => [Download]
+  
 
   
 
