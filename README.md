@@ -76,8 +76,8 @@ Coming soon.
    
 - Class Lecture8 (Date: Nov 10th, 2026):
     - Queue Data Structure => [Download](https://drive.google.com/file/d/1XWsdvau3CaRrx44665KgAbgJFdU1yxwY/view?usp=drive_link)
-    - Queue Data Structure with Array in C => [Display Code]
-    - Queue Data Structure with Linked List in C => [Display Code]
+    - Queue Data Structure with Array in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/Queue_Array_InC.md)
+    - Queue Data Structure with Linked List in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/Queue_LinkedList.md)
 
   
 
