@@ -75,8 +75,9 @@ Coming soon.
     - Lab sheet PDF Slides => [Download](https://drive.google.com/file/d/16MHkzTXK5nk2Yo-lsIZkoxwV-Jeg20ZF/view?usp=drive_link)
    
 - Class Lecture8 (Date: Nov 10th, 2026):
-    - Queue Data Structure => [Download]
-  
+    - Queue Data Structure => [Download](https://drive.google.com/file/d/1XWsdvau3CaRrx44665KgAbgJFdU1yxwY/view?usp=drive_link)
+    - Queue Data Structure with Array in C => [Display Code]
+    - Queue Data Structure with Linked List in C => [Display Code]
 
   
 
