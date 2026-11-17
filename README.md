@@ -79,6 +79,10 @@ Coming soon.
     - Queue Data Structure with Array in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/Queue_Array_InC.md)
     - Queue Data Structure with Linked List in C => [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/Queue_LinkedList.md)
 
+- Class Lecture9 (Date: Nov 17th, 2026):
+    - Circular Queue Data Structure => [Download](https://drive.google.com/file/d/17Ywig82krcZVpIkWx-odjblByBvv0XJt/view?usp=drive_link)
+    - Circular Queue Data Structure with Array in C [Display Code](https://github.com/myreadings1/ECE211_Prog_III_26_27/blob/main/CircularQueue_Array.md)
+
   
 
 ### Homework Assignments
@@ -113,11 +117,13 @@ Coming soon.
 - Quiz1: Date (Oct 6th, 2026):
    - Covers all material up to this date.
  
-- Midterm Exam: Date (Oct 27th, 2026):
+- Midterm1 Exam: Date (Oct 27th, 2026):
    - Covers all material up to this date.
    - Mid_Exam_SampleA ==> [Download](https://drive.google.com/file/d/1GjsJJOF_xwEvFjLzdlppTtDqR1_zCQcH/view?usp=drive_link)
    - Mid_Exam_SampleB ==> [Download](https://drive.google.com/file/d/1dDcHE-guEvUr9IBS45-sxJxDuFdtKn1q/view?usp=drive_link)
 
+- Midterm2 Exam: Date (Nov 24th, 2026):
+   - Covers all material up to this date.
 
 ### Mini Project
 One of the course requirements is the mini project. A student is required to work individually to implement one of the following projects. Mini prject submission includes: (1) Lab Implementation, (2) Mini Project submission deadline should be at least three days before the end of this course, and (2) Lab Discussion.
