@@ -125,6 +125,9 @@ Coming soon.
 - Midterm2 Exam: Date (Nov 24th, 2026):
    - Covers all material up to this date.
 
+- Lab Midterm: Date (Nov 29th, 2026)
+   - Covers all Lab material up to this date.
+
 ### Mini Project
 One of the course requirements is the mini project. A student is required to work individually to implement one of the following projects. Mini prject submission includes: (1) Lab Implementation, (2) Mini Project submission deadline should be at least three days before the end of this course, and (2) Lab Discussion.
 
