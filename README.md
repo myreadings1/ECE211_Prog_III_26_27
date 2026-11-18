@@ -129,7 +129,17 @@ Coming soon.
    - Covers all Lab material up to this date.
 
 ### Mini Project
-One of the course requirements is the mini project. A student is required to work individually to implement one of the following projects. Mini prject submission includes: (1) Lab Implementation, (2) Mini Project submission deadline should be at least three days before the end of this course, and (2) Lab Discussion.
+One of the course requirements is the mini project. 
+A student is required to work individually to implement one of the following projects. 
+Mini project submission includes: (1) Lab Implementation, (2) Mini Project submission deadline should be at least three days before the end of this course, and (3) Lab Discussion.
+
+Projects are an essential part of learning C. Start small and gradually add more features:
+
+- Understand how real programs are structured
+- Practice combining concepts (e.g., functions, loops, file handling)
+- Improve your debugging and problem-solving skills
+- Prepare for job interviews and relevant exercises
+
 
 
 
