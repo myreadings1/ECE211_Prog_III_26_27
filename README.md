@@ -133,12 +133,17 @@ One of the course requirements is the mini project.
 A student is required to work individually to implement one of the following projects. 
 Mini project submission includes: (1) Lab Implementation, (2) Mini Project submission deadline should be at least three days before the end of this course, and (3) Lab Discussion.
 
-Projects are an essential part of learning C. Start small and gradually add more features:
-
-- Understand how real programs are structured
-- Practice combining concepts (e.g., functions, loops, file handling)
-- Improve your debugging and problem-solving skills
-- Prepare for job interviews and relevant exercises
+Projects are an essential part of learning C. 
+- Library Management System: Manage book records (add, delete, search, display) and potentially borrower information.
+- Student Management System: Store and manage student records (name, ID, grades) using structures and file I/O.
+- Banking Management System: Simulate bank account operations, including account creation, transactions, and account details management.
+- Contact Management System: Create a simple phonebook application to store and retrieve contact information.
+- Snake Game:Implement a classic Snake game using console graphics or a simple graphics library if introduced.
+- Hospital Management System: Manage patient records, doctor details, appointments, and potentially billing information.
+- Bus Reservation System: Simulate a bus ticket booking system, including seat selection and availability.
+- Tic-Tac-Toe AI: Develop a Tic-Tac-Toe game where the computer plays against the user using AI logic.
+- File Encryption/Decryption System: Implement a basic file encryption and decryption utility using C.
+- Mini Compiler/Interpreter: Create a simple compiler or interpreter for a very basic custom language, demonstrating parsing and code generation concepts.
 
 
 
